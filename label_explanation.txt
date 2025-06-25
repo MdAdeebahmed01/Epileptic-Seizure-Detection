@@ -1,0 +1,16 @@
+1 - Epileptic Seizure: EEG signals recorded during an actual seizure event with abnormal neuronal activity.
+2 - Brain Lesion (e.g., Tumor): EEG signals from individuals with structural brain abnormalities like tumors.
+3 - Relaxed State (Eyes Closed): EEG data recorded when the subject is resting with eyes closed, showing alpha waves.
+4 - Alert State (Eyes Open): EEG data when the subject is awake with eyes open, showing reduced alpha and increased beta waves.
+5 - Non-Seizure Brain Activity: EEG signals from seizure-free periods or healthy individuals with normal brain activity.
+
+
+Meaning of Epileptic Seizure Recognition
+Epileptic Seizure Recognition refers to the process of detecting and classifying epileptic seizures from EEG (electroencephalogram) signals using computational methods, including machine learning and deep learning. The goal is to identify abnormal brain activity associated with seizures, helping in diagnosis and treatment.
+
+How It Relates to the Eyes and Brain
+Brain: Seizures are caused by abnormal electrical activity in the brain. EEG captures these signals, which show distinct patterns during seizures.
+Eyes: The state of the eyes (open or closed) affects EEG signals.
+Eyes Closed (Relaxed State): Dominated by alpha waves (8-13 Hz), commonly seen in the occipital lobe.
+Eyes Open (Alert State): Alpha waves reduce, and beta waves (14-30 Hz) increase due to active brain processing.
+Since EEG patterns change based on whether the eyes are open or closed, distinguishing these states helps avoid false seizure detections.
